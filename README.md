@@ -54,3 +54,8 @@
 - Descubrir la característica de búsqueda conjunta para planificar consultas
 - Explore la API de criterios JPA
 - Aprenda a mapear entidades usando herencia y clave compuesta
+
+<br>
+
+<img alt="Oracle-Next-Education--e1678304093153" src="https://github.com/user-attachments/assets/9bc27692-6995-4ba9-9844-80249b420da6" />
+
