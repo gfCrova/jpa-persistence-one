@@ -1,6 +1,6 @@
 # Persistencia JPA: Hibernate
 
-## 1
+### Paso 1
 
 - Configurar JPA a través del archivo de persistencia.xml 
 
@@ -46,7 +46,7 @@
 
 <br>
 
-## 2  Consultas avanzadas, performance y modelos complejos
+### Paso 2  Consultas avanzadas, performance y modelos complejos
 
 - Modelar correctamente las relaciones bidireccionales
 - Usar la función Seleccionar nueva para realizar consultas avanzadas
